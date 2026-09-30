@@ -1,0 +1,161 @@
+% Beamer Class for presentations
+\documentclass{beamer}
+
+% PREAMBLE
+\usetheme{Berkeley}
+\usecolortheme{seahorse}
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+% IMAGES FOLDERPATH
+\graphicspath{{\_images}{./\_images}}
+
+\title[Computer Science Magazine]{Articles, Magazine Name, and Timeline Changes.}
+\subtitle{Let's start Writing!}
+\author{Bhushith Gujjala Hari}
+\institute{Temple University Japan}
+
+\date[Fall 2026]{Fall 2026 Semester, September 2026}
+
+\logo{\includegraphics[height=1cm]{TUJ_CS_SOCIETY_LOGO.jpg}}
+
+\begin{document}
+
+
+% ======================
+% FORMATTING SECTION START 
+% ======================
+\AtBeginSection[]
+{
+    \begin{frame}
+        \frametitle{Table of Contents}
+        \tableofcontents[currentsection]
+    \end{frame}
+}
+
+
+
+% ======================
+% TITLE FRAME
+% ======================
+\frame{\titlepage}
+
+
+% ======================
+% TABLE OF CONTENTS 
+% ======================
+\begin{frame}
+    \frametitle{Table of Contents}
+    \tableofcontents
+\end{frame}
+
+
+% ======================
+% INTRODUCTION & AGENDA 
+% ======================
+\section{Introduction and Agenda}
+\begin{frame}
+    \frametitle{Introduction}
+    
+    \begin{itemize}
+        \item<1-> Two weeks ago, in our very first meeting, every writer was asked to come up with the articles they wanted to write about. 
+
+        \item<2-> In this meeting, each of you will be presenting your ideas to everyone for feedback, suggestions, and updates! 
+
+        \item<3-> Moreover, we will also discuss general updates for the magazine and the changes in the timeline.
+
+        \item<4-> Now, can every writer raise their hands. 
+
+        \item<5-> \textbf{Keep your hands raised if you have an article idea for us today!} 
+
+    \end{itemize}
+
+\end{frame}
+
+
+% ======================
+% MAGAZINE NAME VOTING 
+% ======================
+\section{CS Magazine's Name}
+\begin{frame}
+    \frametitle{Computer Science Magazine's Name}
+
+    \begin{figure}
+        \center
+        \includegraphics[width=0.6\linewidth]{magazine_name_voting_qr.png}
+        \caption{Vote for the Name of the Magazine! \emph{Note: Each person can only vote for \textbf{three} names that they like!}}
+        \label{img:name-voting-qr}
+    \end{figure}
+
+\end{frame}
+
+
+% ======================
+% Article Presentation
+% ======================
+\section{Article Idea Presentation}
+\begin{frame}
+    \frametitle{Article Idea Presentation}
+
+    \Large Please come up one by one and present your ideas and what you want to write about in your articles!
+\end{frame}
+
+
+% ======================
+% Design Team Choices
+% ======================
+\section{Vote for Design Themes}
+\begin{frame}
+    \frametitle{Design Team's Picks - Vote for one you like more!}
+
+    \begin{columns}
+        
+        \begin{column}{0.5\textwidth}
+            \begin{figure}
+                \center
+                \includegraphics[width=0.6\linewidth]{style_1_retro_cs_magazine.png}
+                \caption{\textbf{Style-1}: Retro CS/Tech Magazine}
+                \label{img:style-1-retro-cs-magazine}
+            \end{figure}
+        \end{column}
+
+        \begin{column}{0.5\textwidth}%%
+            \begin{figure}
+                \center
+                \includegraphics[width=0.6\linewidth]{style_2_retro_computer.png}
+                \caption{\textbf{Style-2}: Retro Computer Windows and Icons (Windows 98)}
+                \label{img:style-2-retro-computer-windows}
+            \end{figure}
+        \end{column}
+
+    \end{columns}
+
+\end{frame}
+
+
+% ======================
+% Timeline Update 
+% ======================
+\section{Timeline Updates}
+\begin{frame}
+    \frametitle{Timeline Update}
+
+        \begin{description}
+            \item<1->[Week 4 (September 21 to September 25)] \textbf{Deciding and Writing} - Decide articles, sections, and Magazine Name. Start Writing.
+
+            \item<2->[Weeks 5-6 (September 28 to October 9)] \textbf{Writing and Reviewing} - Finalize articles. Article review and editing starts.
+
+            \item<3->[Weeks 7-8 (October 12 to October 23)]: \textbf{Editing and Graphic Design} - All articles must be peer-review completed. Layout of articles on the Magazine should be decided. Design Finalized. 
+
+            \item<4->[Week 9 (October 26 to October 30)]: \textbf{Printing}
+
+            \item<5->[Weeks 10-12 (November 2 to November 20)]: \textbf{Distribution} 
+        \end{description}   
+\end{frame}
+
+
+
+
+
+\end{document}
+

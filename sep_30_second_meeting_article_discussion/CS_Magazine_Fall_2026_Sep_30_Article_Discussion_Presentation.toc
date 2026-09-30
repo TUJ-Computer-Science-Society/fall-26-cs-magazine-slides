@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Introduction and Agenda}{3}{0}{1}
+\beamer@sectionintoc {2}{CS Magazine's Name}{9}{0}{2}
+\beamer@sectionintoc {3}{Article Idea Presentation}{11}{0}{3}
+\beamer@sectionintoc {4}{Vote for Design Themes}{13}{0}{4}
+\beamer@sectionintoc {5}{Timeline Updates}{15}{0}{5}
