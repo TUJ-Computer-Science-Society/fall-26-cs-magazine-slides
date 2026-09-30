@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.16)  30 SEP 2026 13:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.16)  30 SEP 2026 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -920,7 +920,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
 (./CS_Magazine_Fall_2026_Sep_30_Article_Discussion_Presentation.nav)
-<_images/TUJ_CS_SOCIETY_LOGO.jpg, id=33, 592.2125pt x 594.22pt>
+<_images/TUJ_CS_SOCIETY_LOGO.jpg, id=37, 592.2125pt x 594.22pt>
 File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
 <use _images/TUJ_CS_SOCIETY_LOGO.jpg>
 Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 22
@@ -1035,7 +1035,7 @@ File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
 Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 90
 .
 (pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
-<_images/magazine_name_voting_qr.png, id=341, 491.8375pt x 491.8375pt>
+<_images/magazine_name_voting_qr.png, id=359, 491.8375pt x 491.8375pt>
 File: _images/magazine_name_voting_qr.png Graphic file (type png)
 <use _images/magazine_name_voting_qr.png>
 Package pdftex.def Info: _images/magazine_name_voting_qr.png  used on input lin
@@ -1115,7 +1115,7 @@ File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
 Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 13
 3.
 (pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
-<_images/style_1_retro_cs_magazine.png, id=479, 511.9125pt x 695.59875pt>
+<_images/style_1_retro_cs_magazine.png, id=502, 511.9125pt x 695.59875pt>
 File: _images/style_1_retro_cs_magazine.png Graphic file (type png)
 <use _images/style_1_retro_cs_magazine.png>
 Package pdftex.def Info: _images/style_1_retro_cs_magazine.png  used on input l
@@ -1132,7 +1132,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 133
 (/usr/local/texlive/2025basic/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<_images/style_2_retro_computer.png, id=481, 648.4225pt x 361.35pt>
+<_images/style_2_retro_computer.png, id=504, 648.4225pt x 361.35pt>
 File: _images/style_2_retro_computer.png Graphic file (type png)
 <use _images/style_2_retro_computer.png>
 Package pdftex.def Info: _images/style_2_retro_computer.png  used on input line
@@ -1208,6 +1208,64 @@ Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 15
  [20
 
 ]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 16
+0.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+
+(./CS_Magazine_Fall_2026_Sep_30_Article_Discussion_Presentation.toc)
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 16
+0.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [21
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+
+[22
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [23
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [24
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+9.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+9.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [25
+
+]
 \tf@nav=\write6
 \openout6 = `CS_Magazine_Fall_2026_Sep_30_Article_Discussion_Presentation.nav'.
 
@@ -1229,13 +1287,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `CS_Magazine_Fall_2026_Sep_30_Article_Discuss
 ion_Presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 42F67DDEEF407CCCE545BE0390F4E6F1;765.
+(rerunfilecheck)             Checksum: BB8561A107A815036BE8733634F0D03C;866.
  ) 
 Here is how much of TeX's memory you used:
- 23365 strings out of 468640
- 458405 string characters out of 5445039
+ 23404 strings out of 468640
+ 459184 string characters out of 5445039
  834063 words of memory out of 5000000
- 51926 multiletter control sequences out of 15000+600000
+ 51952 multiletter control sequences out of 15000+600000
  635588 words of font info for 68 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  101i,20n,107p,436b,811s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1246,10 +1304,10 @@ cm/cmss8.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmssbx10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmssi10.pfb>
 Output written on CS_Magazine_Fall_2026_Sep_30_Article_Discussion_Presentation.
-pdf (20 pages, 3387656 bytes).
+pdf (25 pages, 3399762 bytes).
 PDF statistics:
- 744 PDF objects out of 1000 (max. 8388607)
- 694 compressed objects within 7 object streams
- 49 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 944 PDF objects out of 1000 (max. 8388607)
+ 887 compressed objects within 9 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 

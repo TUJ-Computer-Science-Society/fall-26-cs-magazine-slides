@@ -3,3 +3,4 @@
 \beamer@sectionintoc {3}{Article Idea Presentation}{11}{0}{3}
 \beamer@sectionintoc {4}{Vote for Design Themes}{13}{0}{4}
 \beamer@sectionintoc {5}{Timeline Updates}{15}{0}{5}
+\beamer@sectionintoc {6}{Next Agenda}{21}{0}{6}
