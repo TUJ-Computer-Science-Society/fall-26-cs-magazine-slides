@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.16)  6 OCT 2026 00:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.16)  6 OCT 2026 00:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1400,7 +1400,7 @@ gn_requirements.out' has not changed.
 Here is how much of TeX's memory you used:
  23373 strings out of 468640
  457791 string characters out of 5445039
- 834952 words of memory out of 5000000
+ 835039 words of memory out of 5000000
  51903 multiletter control sequences out of 15000+600000
  630488 words of font info for 49 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
@@ -1412,7 +1412,7 @@ cm/cmss8.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmssbx10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmssi10.pfb>
 Output written on oct_7_third_meeting_article_updates_and_design_requirements.p
-df (42 pages, 427927 bytes).
+df (42 pages, 427852 bytes).
 PDF statistics:
  1561 PDF objects out of 1728 (max. 8388607)
  1483 compressed objects within 15 object streams
