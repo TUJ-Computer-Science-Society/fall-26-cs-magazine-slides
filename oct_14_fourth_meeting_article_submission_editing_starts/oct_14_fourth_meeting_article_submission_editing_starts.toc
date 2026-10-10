@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Introduction and Agenda}{3}{0}{1}
+\beamer@sectionintoc {2}{Timeline Reminder}{5}{0}{2}
+\beamer@sectionintoc {3}{Article Submission}{11}{0}{3}
+\beamer@sectionintoc {4}{Editing Starts}{17}{0}{4}
