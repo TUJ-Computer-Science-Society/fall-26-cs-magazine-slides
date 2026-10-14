@@ -27,7 +27,7 @@
 \headcommand {\beamer@framepages {16}{16}}
 \headcommand {\beamer@sectionpages {11}{16}}
 \headcommand {\beamer@subsectionpages {11}{16}}
-\headcommand {\sectionentry {4}{Editing Starts}{17}{Editing Starts}{0}}
+\headcommand {\sectionentry {4}{Editing Begins}{17}{Editing Begins}{0}}
 \headcommand {\slideentry {4}{0}{1}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
 \headcommand {\slideentry {4}{0}{2}{18/19}{}{0}}
@@ -36,8 +36,28 @@
 \headcommand {\beamer@framepages {20}{20}}
 \headcommand {\slideentry {4}{0}{4}{21/21}{}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@partpages {1}{21}}
-\headcommand {\beamer@subsectionpages {17}{21}}
-\headcommand {\beamer@sectionpages {17}{21}}
-\headcommand {\beamer@documentpages {21}}
-\headcommand {\gdef \inserttotalframenumber {13}}
+\headcommand {\slideentry {4}{0}{5}{22/25}{}{0}}
+\headcommand {\beamer@framepages {22}{25}}
+\headcommand {\slideentry {4}{0}{6}{26/29}{}{0}}
+\headcommand {\beamer@framepages {26}{29}}
+\headcommand {\beamer@sectionpages {17}{29}}
+\headcommand {\beamer@subsectionpages {17}{29}}
+\headcommand {\sectionentry {5}{Design Team Updates}{30}{Design Team Updates}{0}}
+\headcommand {\slideentry {5}{0}{1}{30/30}{}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {5}{0}{2}{31/35}{}{0}}
+\headcommand {\beamer@framepages {31}{35}}
+\headcommand {\beamer@sectionpages {30}{35}}
+\headcommand {\beamer@subsectionpages {30}{35}}
+\headcommand {\sectionentry {6}{Next Agenda}{36}{Next Agenda}{0}}
+\headcommand {\slideentry {6}{0}{1}{36/36}{}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {6}{0}{2}{37/42}{}{0}}
+\headcommand {\beamer@framepages {37}{42}}
+\headcommand {\slideentry {6}{0}{3}{43/43}{}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\beamer@partpages {1}{43}}
+\headcommand {\beamer@subsectionpages {36}{43}}
+\headcommand {\beamer@sectionpages {36}{43}}
+\headcommand {\beamer@documentpages {43}}
+\headcommand {\gdef \inserttotalframenumber {20}}

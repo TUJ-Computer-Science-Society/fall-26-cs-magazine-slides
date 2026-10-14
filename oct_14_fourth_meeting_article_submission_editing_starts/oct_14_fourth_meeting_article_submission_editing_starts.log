@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.16)  11 OCT 2026 01:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.16)  14 OCT 2026 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -924,7 +924,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
 (./oct_14_fourth_meeting_article_submission_editing_starts.nav)
-<_images/TUJ_CS_SOCIETY_LOGO.jpg, id=29, 592.2125pt x 594.22pt>
+<_images/TUJ_CS_SOCIETY_LOGO.jpg, id=37, 592.2125pt x 594.22pt>
 File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
 <use _images/TUJ_CS_SOCIETY_LOGO.jpg>
 Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 21
@@ -1103,7 +1103,7 @@ File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
 Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 11
 2.
 (pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
-<_images/shared_folder.png, id=511, 874.26625pt x 532.99126pt>
+<_images/shared_folder.png, id=560, 874.26625pt x 532.99126pt>
 File: _images/shared_folder.png Graphic file (type png)
 <use _images/shared_folder.png>
 Package pdftex.def Info: _images/shared_folder.png  used on input line 112.
@@ -1158,7 +1158,7 @@ File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
 Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 14
 4.
 (pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
-<_images/assigned_editors.png, id=640, 883.3pt x 701.62125pt>
+<_images/assigned_editors.png, id=700, 883.3pt x 701.62125pt>
 File: _images/assigned_editors.png Graphic file (type png)
 <use _images/assigned_editors.png>
 Package pdftex.def Info: _images/assigned_editors.png  used on input line 144.
@@ -1173,32 +1173,249 @@ Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 14
  <./_images/assigned_editors.png>]
 File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
 <use _images/TUJ_CS_SOCIETY_LOGO.jpg>
-Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 15
-8.
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 16
+2.
 (pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
-<_images/editor_checklist.png, id=673, 1330.9725pt x 704.6325pt>
+<_images/editor_checklist.png, id=735, 1330.9725pt x 704.6325pt>
 File: _images/editor_checklist.png Graphic file (type png)
 <use _images/editor_checklist.png>
-Package pdftex.def Info: _images/editor_checklist.png  used on input line 158.
+Package pdftex.def Info: _images/editor_checklist.png  used on input line 162.
 (pdftex.def)             Requested size: 261.66658pt x 138.52635pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{img:assigned-
 editors}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.158 \end{frame}
+l.162 \end{frame}
                  
-Overfull \vbox (3.69734pt too high) detected at line 158
+Overfull \vbox (46.62653pt too high) detected at line 162
  []
 
 File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
 <use _images/TUJ_CS_SOCIETY_LOGO.jpg>
-Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 15
-8.
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 16
+2.
 (pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
 [21
 
  <./_images/editor_checklist.png>]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+8.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+8.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [22
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+8.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [23
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+8.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [24
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 17
+8.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [25
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 20
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 20
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [26
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 20
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [27
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 20
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [28
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 20
+2.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+
+[29
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 20
+8.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ (./oct_14_fourth_meeting_article_submission_editing_starts.toc)
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 20
+8.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [30
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 23
+0.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 23
+0.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+
+[31
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 23
+0.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [32
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 23
+0.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [33
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 23
+0.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [34
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 23
+0.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [35
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 23
+6.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+
+(./oct_14_fourth_meeting_article_submission_editing_starts.toc)
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 23
+6.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [36
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 25
+4.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 25
+4.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [37
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 25
+4.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+
+[38
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 25
+4.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [39
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 25
+4.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [40
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 25
+4.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [41
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 25
+4.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [42
+
+]
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 26
+1.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+File: _images/TUJ_CS_SOCIETY_LOGO.jpg Graphic file (type jpg)
+<use _images/TUJ_CS_SOCIETY_LOGO.jpg>
+Package pdftex.def Info: _images/TUJ_CS_SOCIETY_LOGO.jpg  used on input line 26
+1.
+(pdftex.def)             Requested size: 28.3563pt x 28.45274pt.
+ [43
+
+]
 \tf@nav=\write6
 \openout6 = `oct_14_fourth_meeting_article_submission_editing_starts.nav'.
 
@@ -1220,14 +1437,14 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `oct_14_fourth_meeting_article_submission_edi
 ting_starts.out' has not changed.
-(rerunfilecheck)             Checksum: 794DCDB32F40A39E8F341709E2CE15DE;547.
+(rerunfilecheck)             Checksum: A7DA171615515116B6E8071251E59833;792.
  ) 
 Here is how much of TeX's memory you used:
- 23310 strings out of 468640
- 456999 string characters out of 5445039
- 833236 words of memory out of 5000000
- 51890 multiletter control sequences out of 15000+600000
- 630782 words of font info for 50 fonts, out of 8000000 for 9000
+ 23412 strings out of 468640
+ 458776 string characters out of 5445039
+ 834237 words of memory out of 5000000
+ 51942 multiletter control sequences out of 15000+600000
+ 631076 words of font info for 51 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  101i,20n,107p,431b,668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmss1
@@ -1237,10 +1454,10 @@ cm/cmss8.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmssbx10.pfb></usr/local/texlive/2025basic/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmssi10.pfb>
 Output written on oct_14_fourth_meeting_article_submission_editing_starts.pdf (
-21 pages, 755066 bytes).
+43 pages, 814109 bytes).
 PDF statistics:
- 741 PDF objects out of 1000 (max. 8388607)
- 688 compressed objects within 7 object streams
- 49 named destinations out of 1000 (max. 500000)
- 95 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1539 PDF objects out of 1728 (max. 8388607)
+ 1456 compressed objects within 15 object streams
+ 95 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
